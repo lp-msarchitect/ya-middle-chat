@@ -8,5 +8,10 @@
   },
   "devDependencies": {
     "parcel": "^2.6.0"
+  },
+  "@parcel/transformer-css": {
+    "drafts": {
+      "nesting": true
+    }
   }
 }
